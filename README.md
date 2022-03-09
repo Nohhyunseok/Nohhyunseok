@@ -23,7 +23,7 @@ I want to be a member of society!!
 
 ![snohhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=snohhyeon&show_icons=true&theme=radical)</br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snohhyeon)](https://solved.ac/snohhyeon)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustjr4454)](https://solved.ac/gustjr4454)
 </div> 
 
 
