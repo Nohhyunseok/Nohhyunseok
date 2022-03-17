@@ -18,7 +18,7 @@ I wanna be a member of society!!
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></br>
 
 
-### 🤔 Also Interested in.. 🤔
+### 🤔 Also.. Interested in.. 🤔
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-6DB33F?style=flat-square&logoColor=white"/>
 
 ![snohhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=snohhyeon&show_icons=true&theme=radical)</br>
