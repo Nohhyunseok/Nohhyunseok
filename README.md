@@ -7,8 +7,8 @@
               
 
 ### 👋 Hi there 👋
-I'm Junior Developer. 
-I wanna be a member of society!!
+Here, Junior Developer is. 
+He'll be a member of society!!
 
 <!-- ### 🛠 Skills 🛠
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
